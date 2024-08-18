@@ -18,7 +18,6 @@ The dataset used in this project is the [Breast Cancer Wisconsin (Diagnostic) Da
 ## Model Training
 
 - **Preprocessing:** Data was normalized to ensure that all features contribute equally to the model's predictions.
-- **Model:** A Random Forest Classifier was used for prediction due to its robustness and high accuracy.
-- **Hyperparameter Tuning:** GridSearchCV was used to optimize the model parameters.
+- **Model:** A Logistic Regression was used for prediction.
 
 
