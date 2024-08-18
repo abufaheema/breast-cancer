@@ -5,10 +5,11 @@ By analyzing features extracted from breast tissue, the model provides predictio
 
 ###  **Dataset**
 - Describe the dataset used, including its source, features, and how it's structured.
+The dataset used in this project is the **Breast Cancer Wisconsin (Diagonostic) Data Set downloaded from kaggle.com
+  
 
 ```markdown
 ## Dataset
-The dataset used in this project is the **Breast Cancer Wisconsin (Diagonostic) Data Set downloaded from kaggle.com
 
 The dataset used in this project is the [Breast Cancer Wisconsin (Diagnostic) Data Set] downloaded from kaggle.com
 
