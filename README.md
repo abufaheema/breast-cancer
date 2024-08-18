@@ -3,7 +3,7 @@
 This project aims to predict the presence of breast cancer in patients using machine learning models. 
 By analyzing features extracted from breast tissue, the model provides predictions on whether the tumor is benign or malignant.
 
-### 4. **Dataset**
+###  **Dataset**
 - Describe the dataset used, including its source, features, and how it's structured.
 
 ```markdown
@@ -11,6 +11,6 @@ By analyzing features extracted from breast tissue, the model provides predictio
 
 The dataset used in this project is the [Breast Cancer Wisconsin (Diagnostic) Data Set] downloaded from kaggle.com
 
-- **Features:** The dataset contains 30 features, including radius, texture, perimeter, area, and smoothness of the cell nuclei.
-- **Target Variable:** The target variable is `diagnosis`, which indicates whether the tumor is benign (B) or malignant (M).
+ **Features:** The dataset contains 30 features, including radius, texture, perimeter, area, and smoothness of the cell nuclei.
+ **Target Variable:** The target variable is `diagnosis`, which indicates whether the tumor is benign (B) or malignant (M).
 
