@@ -21,3 +21,19 @@ The dataset used in this project is the [Breast Cancer Wisconsin (Diagnostic) Da
 - **Model:** A Logistic Regression was used for prediction.
 
 
+### 7. **Results**
+- Present the model's performance metrics, such as accuracy, precision, recall, and F1-score. visualizations if available.
+
+```markdown
+## Results
+
+The Logistic Regression achieved an accuracy of 97% on the test set. Below are the detailed performance metrics:
+
+- **Accuracy:** 97%
+- **Precision:** 96%
+- **Recall:** 99%
+- **F1-Score:** 97%
+
+
+
+
